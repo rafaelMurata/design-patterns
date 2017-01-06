@@ -1,0 +1,1 @@
+O Builder possibilita a separação da complexidade da criação desse objeto em uma classe específica para isso, além de possibilitar a implementação de atributos opcionais mais facilmente.
