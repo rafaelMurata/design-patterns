@@ -1,0 +1,2 @@
+Encapsulamento é esconder como a classe implementa as suas tarefas. Como que eu sei que as minhas classes e métodos estão encapsulados? Fácil! Basta eu olhar pra ele, ver o nome dele – pega uma classe que o está usando – e tenta responder as duas perguntas: O quê? E como?
+No mundo OO, tem até essa Lei de Demeter, que é mais ou menos famosa, e ela diz mais ou menos isso: Olha, evita ao máximo a ideia de você fazer essas invocações em cadeia. 

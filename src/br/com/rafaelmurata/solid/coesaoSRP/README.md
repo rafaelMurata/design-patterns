@@ -1,0 +1,1 @@
+uma classe coesa, ela é pequenininha, bem focada, eu sei quando eu tenho que mexer nela, e eu não tenho que mexer nela o tempo inteiro.

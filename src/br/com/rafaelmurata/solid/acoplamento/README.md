@@ -1,0 +1,3 @@
+O acoplamento é ruim porque quando eu tenho uma classe que depende de outra classe, mudanças nas classes de que eu dependo podem afetar a classe principal. Isso é problemático. Eu preciso diminuir isso.
+
+Como eu faço isso? Eu tento me acoplar com classes, interfaces, módulos, que sejam estáveis. Um módulo estável é aquele que tenta mudar muito pouco. Ele tem alguma coisa ao redor dele que faz ele mudar muito pouco. E eu mostrei que, no caso da interface, o número de implementações embaixo, o número de pessoas usando aquela interface, são uma força contra mudança nela. Então, acople-se com coisas que são estáveis. E evite ao máximo acoplamento com coisas instáveis no seu sistema.
